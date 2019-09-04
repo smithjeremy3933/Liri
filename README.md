@@ -6,5 +6,9 @@ Directions:
 -use the movie-this command followed by the name of the movie to find information about the movie.
 
 
-## 1. A picture using the concert-this command line to find the touring schedule of Lizzo.
+## 1. A screenshot using the concert-this command line to find the touring schedule of Lizzo.
 ![Screenshot (4)](https://user-images.githubusercontent.com/51000275/64280577-3fe16400-cf06-11e9-9552-83ba671edfc9.png)
+
+
+## 2. A screenshot using the spotify-this-song command line to find information about the song Buffalo Soldier by Bob Marley.
+![Screenshot (5)](https://user-images.githubusercontent.com/51000275/64281771-b5e6ca80-cf08-11e9-9082-49fad8e7ae9c.png)
