@@ -1,0 +1,26 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smithjeremy3933/Liri.git"
+  },
+  "author": "Jeremy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smithjeremy3933/Liri/issues"
+  },
+  "homepage": "https://github.com/smithjeremy3933/Liri#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "inquirer": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
